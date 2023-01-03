@@ -4,6 +4,6 @@
 <img src="http://mazandi.herokuapp.com/api?handle=fgjkqm20&theme=warm"/>    
 
 현재
-- solved.ac CLASS 1 문제를 Jav로 풀고 있습니다.
+- solved.ac CLASS 1 문제를 Java로 풀고 있습니다.
 - 프로그래머스 코딩테스트 입문 문제를 Java로 풀고 있습니다.
 - 프로그래머스 SQL Lv.2 문제를 Oracle로 풀고 있습니다.
