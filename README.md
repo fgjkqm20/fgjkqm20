@@ -11,7 +11,7 @@
 - programmers SQL Lv.2  
 
 완료한 알고리즘 풀이
-- programmers SQL Lv.1  
+- programmers SQL Lv.1, Lv.5
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fgjkqm20)](https://solved.ac/fgjkqm20)
