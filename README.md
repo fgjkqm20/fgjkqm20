@@ -3,7 +3,7 @@
 웹 개발자가 되기 위해 자바 풀스택 과정의 직업 훈련을 수료하였습니다.  
 직업 훈련 과정에서 비대면 진료 및 약 배송 서비스 제공하는 
 [NearByDoctor](https://github.com/fgjkqm20/NearByDoctor) 프로젝트와  
-반려견 산책 모임 서비스 제공하는 [산책갈개](https://github.com/fgjkqm20/final-project)
+반려견 산책 모임 서비스 제공하는 [산책갈개](https://github.com/fgjkqm20/DogWalkingGroup)
 프로젝트를 진행한 경험이 있습니다.  
   
 다양한 기술과 클린 코드에 관심있습니다.  
