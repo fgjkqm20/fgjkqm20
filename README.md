@@ -5,9 +5,6 @@
 [NearByDoctor](https://github.com/fgjkqm20/NearByDoctor) 프로젝트와  
 반려견 산책 모임 서비스 제공하는 [산책갈개](https://github.com/fgjkqm20/DogWalkingGroup)
 프로젝트를 진행한 경험이 있습니다.  
-  
-다양한 기술과 클린 코드에 관심있습니다.  
-이를 통해 비즈니스 문제를 좀 더 효과적으로 해결하고자 합니다.  
 
 <h2>연락처</h2> 
 <table>
